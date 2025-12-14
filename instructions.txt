@@ -1,7 +1,7 @@
-Group to 4
 use sqllite for database
 use pandas for simpler data transformation
-ETL Process Overview
+Data exist in the staging, transformation, and presentation layers. These represent sample expected outcomes of the ETL process.
+and you are free to adjust or enhance them as you see fit.
 
 Source Datasets:
 	Japan Store
